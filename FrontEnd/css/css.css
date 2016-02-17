@@ -1,0 +1,37 @@
+#bt_delete
+{
+    margin-left: 10px;
+    display: block;
+    margin-bottom: 0px;
+}
+#contenedorTablaCarros{
+    margin-top: 100px;
+    border-style: solid;
+    border-width: 2px;
+    padding: 10px;
+}
+#contenedorTabla{
+    
+    margin-top: 80px;
+}
+table, td {
+    border: 1px solid black;
+}
+
+#tb_register tr:hover
+{
+    background-color:#848484;
+}
+th{
+    background-color: #0174DF;
+    color:white;
+}
+#divDelete
+{
+    position: absolute;
+    right: 170px;
+    bottom: 15px;
+
+}
+
+
